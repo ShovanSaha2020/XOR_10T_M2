@@ -1,4 +1,4 @@
-# XOR Gate Physical Layout Design with gpdk90nm Technology
+# XOR Gate Physical Layout Design with GPDK 90nm Technology
 
 This repository contains the design files for an **XOR (Exclusive OR) gate** implemented using the **GPDK 90nm technology library** in **Cadence Virtuoso**.
 
